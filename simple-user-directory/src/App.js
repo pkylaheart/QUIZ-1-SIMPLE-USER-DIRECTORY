@@ -37,7 +37,7 @@ export default function App() {
         <div className="title-wrapper">
 
           <h1 className="title">
-            USER INFORMATION
+            USER DIRECTORY
           </h1>
 
           <button
